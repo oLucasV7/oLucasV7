@@ -1,9 +1,9 @@
 # Bem vindo(a) ao meu perfil! 😉
 
 <div>
-  <a href="https://github.com/oLucasV7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oLucasV7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oLucasV7&layout=compact&langs_count=6&theme=tokyonight"/>
+  <a href="https://github.com/Lucass-Vinicius">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucass-Vinicius&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucass-Vinicius&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   
@@ -33,6 +33,6 @@
  
 
   
-  ![Snake animation](https://github.com/oLucasV7/oLucasV7/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Lucass-Vinicius/Lucass-Vinicius/blob/output/github-contribution-grid-snake.svg)
 
 </div>
