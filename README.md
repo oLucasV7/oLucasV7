@@ -1,4 +1,4 @@
-## Hi there 👋
+## Seja Bem vindo (a) ao meu perfil! 😉
 
 <div>
   <a href="https://github.com/oLucasV7">
@@ -13,7 +13,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ## Redes Socias: 
  
 <div> 
   <a href="https://www.instagram.com/lucas_vpg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
