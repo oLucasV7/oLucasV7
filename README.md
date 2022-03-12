@@ -2,12 +2,12 @@
 
 <div>
   <a href="https://github.com/Lucass-Vinicius">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucass-Vinicius&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucass-Vinicius&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucass-Vinicius&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucass-Vinicius&layout=compact&langs_count=6&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
   
-  ### 📖Estudando...
+  ### 📖Estudando... 
   
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
