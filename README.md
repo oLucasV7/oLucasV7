@@ -18,7 +18,6 @@
   </div>
   
   <div>
-    <h3>  𝓔𝓼𝓽𝓾𝓭𝓪𝓷𝓭𝓸 </h3>
     <br>
     <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -30,7 +29,6 @@
   
   
  <div align="center">
-   <h3> 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼 </h3
   <br>
   <a href="https://github.com/Lucass-Vinicius"> 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Lucass-Vinicius&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -38,8 +36,7 @@
 </div>
   
   <div>
-    <h3> 𝓞𝓷𝓭𝓮 𝓶𝓮 𝓮𝓷𝓬𝓸𝓷𝓽𝓻𝓪𝓻 </h3>
-    <br
+    <br>
     <a href="https://www.instagram.com/lucas_vpg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://steamcommunity.com/id/LUCASSV7//" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
    </div>
