@@ -8,7 +8,7 @@
     <h2> 𝓢𝓸𝓫𝓻𝓮 𝓶𝓲𝓶 </h2>
     
       • 👨‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas, na  
-      Faculdade de Tecnologia (Fatec). Atualmente estou no terceito semestre!
+      Faculdade de Tecnologia (Fatec). Atualmente estou no terceiro semestre!
     
       • ✨ Descobri minha paixão por programação há um tempo atrás,  
       quando fiz um curso de informática básica, e lá aprendi DreamWeaver.
@@ -23,7 +23,8 @@
     <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <br>
+    <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img align="center" alt="VsCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   </div>
   <br>
   
