@@ -5,7 +5,7 @@
   </p>
   
   <div>
-    <h2> 𝓢𝓸𝓫𝓻𝓮 𝓶𝓲𝓶 </h2>
+    <h2> 𝚂𝚘𝚋𝚛𝚎 𝚖𝚒𝚖 </h2>
     
       • 👨‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas, na  
       Faculdade de Tecnologia (Fatec). Atualmente estou no terceiro semestre!
@@ -29,6 +29,10 @@
   <br>
   
   
+---
+  
+  <h3> 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚗𝚊𝚕𝚢𝚝𝚒𝚌𝚜 </h3>
+  
  <div align="center">
   <br>
   <a href="https://github.com/Lucass-Vinicius"> 
@@ -36,6 +40,11 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucass-Vinicius&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
+   
+---
+   
+   <h3> 𝚁𝚎𝚍𝚎𝚜 𝚜𝚘𝚌𝚒𝚊𝚒𝚜 </h3>
+   
   <div>
     <br>
     <a href="https://www.instagram.com/lucas_vpg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
