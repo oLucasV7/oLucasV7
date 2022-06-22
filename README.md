@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 𝕆𝕝á 𝕞𝕦𝕟𝕕𝕠 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, 𝕊𝕖𝕛𝕒𝕞 𝕓𝕖𝕞 𝕧𝕚𝕟𝕕𝕠𝕤(𝕒𝕤) 𝕒𝕠 𝕞𝕖𝕦 𝕡𝕖𝕣𝕗𝕚𝕝!</h1>
+  <h1> 𝕆𝕝á 𝕞𝕦𝕟𝕕𝕠 <img width="50px" height="50px" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, 𝕊𝕖𝕛𝕒𝕞 𝕓𝕖𝕞 𝕧𝕚𝕟𝕕𝕠𝕤(𝕒𝕤) 𝕒𝕠 𝕞𝕖𝕦 𝕡𝕖𝕣𝕗𝕚𝕝!</h1>
   <p>
     <img width="100%" height="100%"               src="https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmat3T8vqQcr14WaZ4H7K3cFKgpVYxveHEjni7f1NrBJhB/tumblr_otjfqziQrH1qze3hdo1_500.gif">
   </p>
