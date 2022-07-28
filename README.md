@@ -7,14 +7,13 @@
   <div>
     <h2> 𝚂𝚘𝚋𝚛𝚎 𝚖𝚒𝚖 </h2>
     
-      • 👨‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas, na  
-      Faculdade de Tecnologia (Fatec). Atualmente estou no terceiro semestre!
-    
-      • ✨ Descobri minha paixão por programação há um tempo atrás,  
-      quando fiz um curso de informática básica, e lá aprendi DreamWeaver.
-    
-      • 🌐 Estou atualmente fascinado pelo Front-end, busco me aperfeiçoar nesta área.
-       Porém no fundo me permanece uma vontade de ser um desenvovedor FullStack.
+    • 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas, na 
+    Faculdade de Tecnologia de Mogi das Cruzes (Fatec MC). Atualmente estou no quarto semestre!
+
+    • ✨ Apaixonado por tecnologia e programação!
+
+    • 🌐 Estou atualmente estudando Front-end, busco me aperfeiçoar nesta área. 
+    Porém pretendo no futuro me tornar um desenvolvedor FullStack.
   </div>
   
   <div>
