@@ -1,10 +1,9 @@
 ##  𝕆𝕝á 𝕞𝕦𝕟𝕕𝕠 <img width="50px" height="50px" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, 𝕊𝕖𝕛𝕒𝕞 𝕓𝕖𝕞 𝕧𝕚𝕟𝕕𝕠𝕤(𝕒𝕤) 𝕒𝕠 𝕞𝕖𝕦 𝕡𝕖𝕣𝕗𝕚𝕝!
 
  <div align="center">
-  <br>
-  <a href="https://github.com/Lucass-Vinicius"> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Lucass-Vinicius&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucass-Vinicius&layout=compact&langs_count=7&theme=midnight-purple"/>
+   <a href="https://github.com/Lucass-vinicius">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucass-vinicius&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucass-vinicius&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 ---
